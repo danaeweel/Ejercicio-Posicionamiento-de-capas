@@ -1,0 +1,42 @@
+.d1 {
+    position: absolute; left: 1%; bottom: 87%;
+    border: blue 2px solid;
+    background-color: cyan;
+    width: 90px;
+    height: 90px;
+
+
+}
+
+#d1 {
+    position: absolute; left: 9%; bottom: 87%;
+    border: 2px solid blue;
+    background-color: cyan;
+    width: 90px;
+    height: 90px;
+}
+
+.d2 { 
+    position: absolute; left: 17%; bottom: 87%;
+    border: 2px solid blue;
+    background-color: cyan;
+    width: 90px;
+    height: 90px;
+}
+
+#d2 {
+    position: absolute; left: 25%; bottom: 87%;
+    border: 2px solid blue;
+    background-color: cyan;
+    width: 90px;
+    height: 90px;
+
+}
+
+.d3 {
+    position: absolute; left: 33%; bottom: 87%;
+    border: 2px solid blue;
+    background-color: cyan;
+    width: 90px;
+    height: 90px;
+}
